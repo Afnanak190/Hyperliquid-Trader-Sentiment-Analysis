@@ -13,9 +13,12 @@ To analyze how Bitcoin market sentiment (Fear vs Greed) influences trader behavi
 ### Datasets
 1. **Bitcoin Market Sentiment (Fear & Greed Index)**
    - Columns: Date, Classification (Fear / Greed)
+   - link=  https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+
 
 2. **Historical Trader Data (Hyperliquid)**
    - Includes: account, symbol, execution price, size, side, timestamp, leverage, closed PnL, etc.
+   - link= https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ---
 
